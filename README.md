@@ -41,19 +41,7 @@ npm start
    ```
 3. **Check Live URL** on Vercel
 
-## Folder Structure
-```
-📂 RandomUserFetcher
- ┣ 📂 src
- ┃ ┣ 📂 components
- ┃ ┃ ┣ 📜 Card.jsx
- ┃ ┃ ┣ 📜 Home.jsx
- ┃ ┣ 📜 ApiData.js
- ┃ ┣ 📜 App.js
- ┃ ┣ 📜 index.js
- ┣ 📜 package.json
- ┣ 📜 README.md
- ┣ 📜 vercel.json
+
 ```
 
 
