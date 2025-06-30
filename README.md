@@ -40,8 +40,6 @@ npm start
    vercel deploy --prod
    ```
 3. **Check Live URL** on Vercel
-
-
 ```
 
 
